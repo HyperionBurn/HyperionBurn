@@ -20,7 +20,7 @@ Site: [wasifwaseem.tech](https://wasifwaseem.tech) · [LinkedIn](https://www.lin
 - [GDG Motion Arcade](https://github.com/HyperionBurn/gdg-cv-arcade): computer-vision games that run in the browser from a webcam, built for our club fair stall. They work fully offline.
 - [Canvas Extracter](https://github.com/HyperionBurn/canvas-extracter-gen2): a script that archives your Canvas courses (files and module pages) before you lose access.
 - [FLUXGATE](https://github.com/HyperionBurn/nexus-command-center): a command-center dashboard for school traffic and bus pickup.
-- This site's portfolio, a Lamborghini Revuelto teardown that scrolls in 3D, is at [wasifwaseem.tech](https://wasifwaseem.tech).
+- My portfolio is a Lamborghini Revuelto teardown that scrolls in 3D (Next.js and React Three Fiber): [wasifwaseem.tech](https://wasifwaseem.tech).
 
 ## Hackathons
 
