@@ -1,35 +1,23 @@
 # Wasif
 
-TypeScript and Python. Mostly on **agentic systems** — particularly how multiple
-agents coordinate and hand off work to each other.
+I write TypeScript and Python, mostly for agent systems. The part I keep coming back to is what happens when several agents have to work on the same thing: who owns which piece, and how work gets passed along without getting lost.
 
-## What I'm building
+## What I'm working on
 
-- **[finalisma](https://github.com/HyperionBurn/finalisma)** — coordination layer
-  for multi-agent AI: one link opens a room, many agents join
-- **[omni-ai](https://github.com/HyperionBurn/omni-ai)** — custom agentic local
-  systems
-- **[AgentWork](https://github.com/HyperionBurn/AgentWork)** — agent tooling
-- **[nexus-command-center](https://github.com/HyperionBurn/nexus-command-center)** —
-  a command surface for driving agents
-- **[canvas-extracter-gen2](https://github.com/HyperionBurn/canvas-extracter-gen2)** —
-  computer vision extraction
+- [finalisma](https://github.com/HyperionBurn/finalisma): lets multiple AI agents work together. You share one link, it opens a room, and any number of agents can join.
+- [omni-ai](https://github.com/HyperionBurn/omni-ai): agent systems that run locally.
+- [AgentWork](https://github.com/HyperionBurn/AgentWork): tooling for agents.
+- [nexus-command-center](https://github.com/HyperionBurn/nexus-command-center): a place to control and watch agents from.
+- [canvas-extracter-gen2](https://github.com/HyperionBurn/canvas-extracter-gen2): pulling data out of images with computer vision.
 
 ## Open source
 
-I contribute upstream. Most of it is unglamorous and I'd rather it be correct than
-noticed: documentation rot, stale references, broken links, docs that disagree with
-the code next to them.
+I send fixes to other people's projects, mostly small ones: outdated docs, dead links, and READMEs that no longer match the code beside them. I'd rather a fix be right than impressive.
 
-The one I'd point at: [expressjs/express#7529](https://github.com/expressjs/express/pull/7529)
-— the emeritus triagers list had two adjacent entries carrying each other's real
-names, so `Troy Goode` appeared twice and `Lekan Ikotun` appeared against the wrong
-handle. Merged.
+My favorite so far is [expressjs/express#7529](https://github.com/expressjs/express/pull/7529). Two neighbouring entries in Express's emeritus triagers list had each other's real names. `Troy Goode` showed up twice and `Lekan Ikotun` was attached to the wrong handle. It's merged.
 
-## Stack
+## Tools
 
-`TypeScript` · `Python` · `JavaScript` · `React` · `Node.js`
+TypeScript, Python, JavaScript, React, Node.js.
 
----
-
-*Mostly TypeScript and Python, mostly agents. Open to issues and PRs.*
+Issues and PRs are welcome on any of the above.
