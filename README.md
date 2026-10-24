@@ -9,7 +9,7 @@ Site: [wasifwaseem.tech](https://wasifwaseem.tech) · [LinkedIn](https://www.lin
 - **UBFalcons Racing:** building a mini F1 car that's driven by AI.
 - **GDG on Campus UOBD:** Tech Co-Lead, helping organize what we're aiming to make the largest hackathon in Dubai.
 - **180 Degrees Consulting:** strategy consultant. I helped put together a pitch deck and report for a Dubai startup and presented it to their executive board.
-- **[GRID](https://grid-uae.vercel.app):** a site I made because UAE tech events are scattered across LinkedIn, Luma, Meetup and WhatsApp groups. It lists only the ones worth going to. No signups and no ads.
+- **[Gridzae](https://gridzae.com):** a site I made because UAE tech events are scattered across LinkedIn, Luma, Meetup and WhatsApp groups. It lists only the ones worth going to. No signups and no ads.
 
 ## Things I've built
 
